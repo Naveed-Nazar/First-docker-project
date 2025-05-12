@@ -1,2 +1,1 @@
-This is the first docker project. I used docker file to build image using base image of nginx 
-And then I created container using this image. I have hosted simple html file on nginx server
+This was my first Docker project. I created a Docker image using a Dockerfile based on the Nginx base image, then launched a container from it. A simple HTML file was hosted on the Nginx server inside the container
